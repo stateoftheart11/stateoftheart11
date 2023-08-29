@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=versatile118" alt="versatile118" /></a> </p>
 
-- 💬 Ask me about **data analyst, AI, NLP, Scraping**
+- 💬 Ask me about **Data analyst, AI, NLP, Scraping**
 
 - 📫 How to reach me **coltmclaughlin11@gmail.com**
 
