@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=versatile118" alt="versatile118" /></a> </p>
 
-- 💬 Ask me about **Data analyst, AI, NLP, Scraping**
+- 💬 Ask me about **Data analyst, AI, NLP, ETL**
 
 - 📫 How to reach me **coltmclaughlin11@gmail.com**
 
-- 📄 Know about my experiences [https://dochub.com/coltmclaughlin11/dbnaAMqK9mQq6BDKGNXJm0/colt-mclaughlin-resume-29-08-2023-00-33-29-pdf?dt=Ancwj5iYqn9YzEa6meGd](https://dochub.com/coltmclaughlin11/dbnaAMqK9mQq6BDKGNXJm0/colt-mclaughlin-resume-29-08-2023-00-33-29-pdf?dt=Ancwj5iYqn9YzEa6meGd)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1P6r8fW858D9FZAbDBt66HaFvudiyGUxH/view?usp=sharing](https://drive.google.com/file/d/1P6r8fW858D9FZAbDBt66HaFvudiyGUxH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
