@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Colt McLaughlin</h1>
-<h3 align="center">A passionate versatile developer from Canada</h3>
+<h3 align="center">A passionate Full Stack Developer from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=versatile118&label=Profile%20views&color=0e75b6&style=flat" alt="versatile118" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=versatile118" alt="versatile118" /></a> </p>
 
-- 💬 Ask me about **DevOps | AI & NLP | Data Analyst | Blockchain | ETL | Product Management**
+- 💬 Ask me about **Ruby on Rails | React | Python | DevOps | AI & NLP | Data Analyst | Blockchain | ETL | Product Management**
 
 - 📫 How to reach me **coltmclaughlin11@gmail.com**
 
