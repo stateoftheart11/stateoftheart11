@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coltmclaughlin11" alt="coltmclaughlin11" /></a> </p>
 
-- 🔭 I’m currently working on [Cross-court company](https://github.com/coltmclaughlin11/cross-court-web)
+- 🔭 I’m currently working on [Cross-court company](https://cross-court.com/)
 
 - 💬 Ask me about **FullStack, AI, Data**
 
