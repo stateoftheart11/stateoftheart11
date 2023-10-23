@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Colt McLaughlin</h1>
-<h3 align="center">A passionate Bots/Crawlers, Web Scraping expert from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coltmclaughlin11&label=Profile%20views&color=0e75b6&style=flat" alt="coltmclaughlin11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coltmclaughlin11" alt="coltmclaughlin11" /></a> </p>
 
 - 🔭 I’m currently working on [Cross-court company](https://cross-court.com/)
-
-- 💬 Ask me about **Bots/Crawlers, Web Scraping**
 
 - 📫 How to reach me **coltmclaughlin11@gmail.com || https://t.me/coltmclaughlin11**
 
