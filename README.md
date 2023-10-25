@@ -4,11 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coltmclaughlin11" alt="coltmclaughlin11" /></a> </p>
 
-- 🔭 I’m currently working on [Cross-court company](https://cross-court.com/)
-
 - 📫 How to reach me **coltmclaughlin11@gmail.com || https://t.me/coltmclaughlin11**
-
-- 📄 Know about my experiences [https://flowcv.com/resume/qr4m7nepau](https://flowcv.com/resume/qr4m7nepau)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
