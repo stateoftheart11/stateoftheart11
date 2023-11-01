@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coltmclaughlin11" alt="coltmclaughlin11" /></a> </p>
 
-- 📫 How to reach me **coltmclaughlin11@gmail.com || https://t.me/coltmclaughlin11**
+- 📫 How to reach me **coltmclaughlin11@gmail.com || https://t.me/state_of_the_art_11 || Discord: state_of_the_art_11**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
