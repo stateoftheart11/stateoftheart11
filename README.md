@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Colt McLaughlin</h1>
+<h1 align="center">Hi 👋, I'm Jordan Harper</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coltmclaughlin11&label=Profile%20views&color=0e75b6&style=flat" alt="coltmclaughlin11" /> </p>
 
