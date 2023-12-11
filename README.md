@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stateoftheart11" alt="stateoftheart11" /></a> </p>
 
-- 📫 How to reach me **https://t.me/state_of_the_art_11 || Discord: https://discord.gg/xG2sxGZz**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="discord id: state_of_the_art_11" height="30" width="40" /></a>
